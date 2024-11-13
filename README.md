@@ -1,3 +1,2 @@
-# ICO-2024-2
-Primeiro repositório criado no GitHub
+Este é o arquivo README.md
 ESte é o arquivo README.md
